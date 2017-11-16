@@ -1,0 +1,8 @@
+body {
+  background: green; }
+  body div {
+    background: pink; }
+    body div p {
+      background: yellow; }
+    body div ul li:nth-of-type(odd) {
+      background: grey; }
